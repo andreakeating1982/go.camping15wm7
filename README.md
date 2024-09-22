@@ -1,1 +1,0 @@
-# go.camping15wm7
